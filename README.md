@@ -28,19 +28,34 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+Step 1: Open Quartus II in your laptop.
+
+Step 2: Write code to implement SR flipflop using Verilog and validating their functionality using their functional tables.
+
+Step 3: Run compilation to check for errors.
+
+Step 4: Open waveform output and load input values.
+
+Step 5: Run simulation to get the output.
+
+Step 6: Open in RTL viewers to get RTL diagram output.
 
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:A.VIMAL
+RegisterNumber:24005922
 */
 
 **RTL LOGIC UP COUNTER**
+![WhatsApp Image 2024-12-26 at 21 32 18_ea76b682](https://github.com/user-attachments/assets/6cc17b6f-b529-4943-b4d5-0e7e497225bb)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![WhatsApp Image 2024-12-26 at 21 32 43_4694585b](https://github.com/user-attachments/assets/ae6b609d-e93c-4f63-a5ae-eb942f26f7af)
 
 **TRUTH TABLE**
+![WhatsApp Image 2024-12-26 at 21 16 20_b1b4ea9a](https://github.com/user-attachments/assets/359ca91b-7257-40f5-bfb2-a058d9a17fe0)
 
 **RESULTS**
+The observation of the simulation results and confirm the successful execution of the program.
